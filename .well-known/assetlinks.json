@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cuponly.app",
+      "sha256_cert_fingerprints": [
+        "DB:9D:91:E2:4C:5D:0C:1D:BB:7C:43:BB:CA:CC:23:E2:80:59:E9:13:BA:A5:98:97:AE:47:64:96:99:BC:AE:9F"
+      ]
+    }
+  }
+]
