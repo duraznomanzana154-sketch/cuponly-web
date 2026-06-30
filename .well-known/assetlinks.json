@@ -6,7 +6,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.cuponly.app",
-    "sha256_cert_fingerprints": ["db:9d:91:e2:4c:5d:0c:1d:bb:7c:43:bb:ca:cc:23:e2:80:59:e9:13:ba:a5:98:97:ae:47:64:96:99:bc:ae:9f"]
+      "sha256_cert_fingerprints": ["D0:9D:91:E2:4C:5D:0C:1D:B0:7C:43:0B:CA:CC:23:E2:80:59:E9:13:BA:65:9B:97:6E:47:64:96:99:8C:AE:9F"]
     }
   }
 ]
